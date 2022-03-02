@@ -1,0 +1,26 @@
+Date : 2022/02/28
+
+Changelog:
+• Synced with PixelExtended Source
+• February 2022 - Android Security Patch
+• Added Face Unlock
+• Added FOD/UDFPS Animations
+• Added GCam GO as default camera
+• Added Left Volume Panel
+• BT Calls fixed
+
+Notes:
+• S Firmware is mandatory
+• This rom supports only LOS recovery - Please don't report bugs if you using TWRP.
+• Please report bugs with logs if you found any
+
+Date : 2022/02/07
+
+Changelog:
+• Added Quick Tap
+• Made UI smoother
+• Initial unoffical build
+
+Notes:
+• This rom supports only LOS recovery - Please don't report bugs if you using TWRP.
+• Please report bugs with logs if you found any
