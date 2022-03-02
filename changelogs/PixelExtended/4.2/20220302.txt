@@ -5,9 +5,9 @@ Changelog:
 • February 2022 - Android Security Patch
 • Added Face Unlock
 • Added FOD/UDFPS Animations
-• Added GCam GO as default camera
+• Added GCam GO as default camera (Thanks @Eidoron1)
 • Added Left Volume Panel
-• BT Calls fixed
+• BT Calls fixed (Thanks @Linux4 and @Orel6505)
 
 Notes:
 • S Firmware is mandatory
