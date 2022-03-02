@@ -4,7 +4,7 @@ Changelog:
 • Synced with PixelExtended Source
 • February 2022 - Android Security Patch
 • Added Face Unlock
-• Added FOD/UDFPS Animations
+• Added FOD/UDFPS Features
 • Added GCam GO as default camera (Thanks @Eidoron1)
 • Added Left Volume Panel
 • BT Calls fixed (Thanks @Linux4 and @Orel6505)
