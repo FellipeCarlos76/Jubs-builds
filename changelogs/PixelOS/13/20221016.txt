@@ -1,0 +1,8 @@
+Date : 2022/10/16
+
+Changelog:
+• Remap Bixby key to Google Assistant
+• EROFS for /vendor
+• Enable blur
+• Add BSG Cam as default camera
+• Initial unofficial release
