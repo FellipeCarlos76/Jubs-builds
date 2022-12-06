@@ -1,0 +1,9 @@
+Date : 2022/12/06
+
+Changelog:
+• Configure aux camera for Aperture
+• EROFS for /vendor
+• Enable blur
+• Linux 4.14.296
+• Ship HVI4 firmware for easy flashing on devices running HVJ5
+• Initial Android 13 unofficial release
