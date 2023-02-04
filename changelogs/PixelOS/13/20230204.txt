@@ -1,0 +1,26 @@
+Date : 2023/02/04
+
+Changelog :
+• Synced with PixelOS Source
+• January 2023 - Android Security Patch
+• Add camera ID 51 for beyond2lte/beyondx
+• Add Portuguese Translation manually to KProfiles
+• Add Wireless PowerShare
+• BT Calls should work fine now
+• Disable Burn-in Protection (Causes undue shifts in the status bar, causing it to cross the edge of the screen)
+• Drop BSG Cam as default camera (now Lineage Aperture is the default camera)
+• Enable haptic text cursor
+• Enable config_vibrateOnIconAnimation
+• Implement and build KProfiles (You can find this in Settings>Battery>KProfiles)
+• Limit screen recorder's framerate to 60fps
+• Show audio panel on left side
+• Update kernel to Linux 4.14.304
+
+Date : 2022/10/16
+
+Changelog:
+• Remap Bixby key to Google Assistant
+• EROFS for /vendor
+• Enable blur
+• Add BSG Cam as default camera
+• Initial unofficial release
