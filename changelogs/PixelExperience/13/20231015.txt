@@ -1,0 +1,10 @@
+Date : 2023/10/15
+
+Changelog:
+• EROFS for /vendor
+• Limit screen recorder's framerate to 60fps
+• Set rounded corners and rounded mask (To make the recents, lockscreen, predictive gestures and others fit perfectly with the corners of the device and not look pointlessly square) (S10 Series only)
+• Set status bar padding (for align with notch and make it look like stock) (S10 Series only)
+• Show audio panel on left side (S10 and Note10 Series)
+• Update kernel to Linux 4.14.321
+• Initial unofficial release
