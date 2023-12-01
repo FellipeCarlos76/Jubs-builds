@@ -1,0 +1,10 @@
+Date : 2023/11/30
+
+Device Changelog:
+• Show audio panel on left side
+• Initial release
+
+Source Changelog:
+• November 2023 Security Patch
+• PixelPropsUtils: Make play integrity pass again
+• Settings: Import pt-rBR translations for havoc_strings.xml
