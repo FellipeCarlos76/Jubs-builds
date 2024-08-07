@@ -1,0 +1,28 @@
+{
+	"response": [
+		{
+			"maintainer": "Jubscleisson",
+			"oem": "Samsung",
+			"device": "Samsung Galaxy S10",
+			"filename": "RisingOS-4.2-RELEASE-20240807-GAPPS-COMMUNITY-beyond1lte-ota.zip",
+			"download": "https://sourceforge.net/projects/jubs-builds/files/Test/RisingOS-4.2-RELEASE-20240807-GAPPS-COMMUNITY-beyond1lte-ota.zip/download",
+			"timestamp": 1723068164,
+			"md5": "4d2ed66cce7346eb5d44c7716a18d7b1",
+			"sha256": "7bab978febf09adad29a87330cfa4e7912ccac1c3580376a76e3a6da52d4f62c",
+			"size": 2201429927,
+			"version": "4.2-Kailash",
+			"buildtype": "RELEASE",
+			"forum": "",
+			"gapps": "",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "",
+			"paypal": "https://ko-fi.com/jubscleisson",
+			"telegram": "https://t.me/JubsBuildsDiscussion",
+			"dt": "",
+			"common-dt": "",
+			"kernel": ""
+		}
+	]
+}

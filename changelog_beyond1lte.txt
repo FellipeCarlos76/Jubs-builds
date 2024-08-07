@@ -1,0 +1,8 @@
+Highlights & Device Specific Changes:
+Build type: Monthly
+Device: Samsung Galaxy S10 (beyond1lte)
+Device maintainer: Fellipe Lima (Jubscleisson)
+
+===== 07-08-24 =====
+
+- Initial build
